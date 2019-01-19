@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "blacklistMod",
+        "name": "BlacklistMod",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["MahmutKocas"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
