@@ -1,16 +1,18 @@
 [
-    {
-        "modid": "blacklistMod",
-        "name": "BlacklistMod",
-        "description": "",
-        "version": "${version}",
-        "mcversion": "${mcversion}",
-        "url": "",
-        "updateUrl": "",
-        "authorList": ["MahmutKocas"],
-        "credits": "",
-        "logoFile": "",
-        "screenshots": [],
-        "dependencies": []
-    }
+  {
+    "modid": "modBlacklister",
+    "name": "ModBlacklister",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "MahmutKocas"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
